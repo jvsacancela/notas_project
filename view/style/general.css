@@ -1,0 +1,34 @@
+#btnAdd, #btnEdit, #btnDelete{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+#btnAdd{
+    color: blueviolet;  
+}
+
+#btnEdit{
+    color: green;
+}
+
+#btnDelete{
+    color: red;
+}
+thead{
+    background-color: rgb(5, 52, 78);
+    color: white;
+}
+
+table{
+    text-align:center;
+}
+
+h2, tbody{
+    color:rgb(5, 52, 78);
+}
+
+#tabla{
+    margin-top: 20px;
+}
